@@ -1,5 +1,7 @@
 # desmoto-assignment
 
+Website spec sheet: https://content.codecademy.com/courses/freelance-1/unit-2/dasmotos-arts_redline.jpg
+
 * **Objective** - Attempt to create a website on your own computer
 * **Purpose** - Additional practice with HTML and CSS from scratch
 * **Requirements**:
